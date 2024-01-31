@@ -23,7 +23,7 @@ const Billing = () => {
         </p>
         <div className='flex flex-row flex-wrap sm:mt-10 mt-6 items-center justify-center w-full'>
       
-       <p className='text-gray-50 bg-blue-800 p-4 rounded-lg'>وين قارد لحماية السيارات - شركة حماية وتظليل السيارات</p>
+       <p className='text-primary bg-blue-gradient p-4 rounded-lg'>وين قارد لحماية السيارات - شركة حماية وتظليل السيارات</p>
         </div>
       </div>  
     </section>
